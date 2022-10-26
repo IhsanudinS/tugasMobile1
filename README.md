@@ -1,5 +1,8 @@
 ﻿# tugasMobile1
-tugasMobile1
+
+
+Nama : Muhammad Ihsanudin Syaifullah
+
 Tampilan Layout Gravity :
 
 
